@@ -17,7 +17,5 @@ To create the L07_GoodFriends to L10_GoodFriends
    Without debugger: Opeb a Terminal in folder AppGoodFriendsWebApi run: 
    dotnet run -lp https 
 
-4. Use Azure Data Studio to execute SQL script DbContext/SqlScripts/initDatabase.sql
-
-5. Use endpoint Admin->Seed to seed the database
+4. Use endpoint Admin->Seed to seed the database
 
